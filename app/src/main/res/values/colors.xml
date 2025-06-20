@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_chido">#2F65BF</color>
+    <color name="cyan_chido">#369AD0</color>
+    <color name="azul_poweroso">#0A42B6</color>
+</resources>
