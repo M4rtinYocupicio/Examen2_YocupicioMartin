@@ -37,6 +37,7 @@
             android:id="@+id/nombreA"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:layout_marginHorizontal="10sp"
             android:textSize="15dp"
             android:textStyle="bold"
             android:textColor="@color/white"
@@ -46,6 +47,7 @@
             android:id="@+id/apellidoA"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:layout_marginHorizontal="10sp"
             android:textSize="12dp"
             android:textColor="@color/white"
             android:text="lucia.peña@potros.fake.com"/>
@@ -54,6 +56,7 @@
             android:id="@+id/carreraA"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:layout_marginHorizontal="10sp"
             android:textStyle="bold"
             android:textSize="12dp"
             android:textColor="@color/white"
